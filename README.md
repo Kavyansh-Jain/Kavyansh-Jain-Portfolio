@@ -1,12 +1,14 @@
 # Kavyansh-Jain-Portfolio
 
-Analytics Portfolio
+### Analytics Portfolio
+
+# [Business Presentations](https://github.com/Kavyansh-Jain/Kavyansh-Jain-Portfolio/tree/55cd52c062eb6aa2ad0481c3f991e48769de4466/Business%20Presentations)
+
+This link contains the business strategy & presentations that I made participating in various case study competitions.
 
 # [Project 1 : Zomato Customer Analysis](https://github.com/Kavyansh-Jain/Kavyansh-Jain-Portfolio/tree/e0a4bbc9cb8ff2923349667e34eba378b42281c1/Project%201%20%3A%20Zomato%20Project)
 
 This project analyzes a sample Zomato dataset using SQL queries to explore customer spending habits, product popularity, and the impact of the Zomato Gold membership program.
-** It is a sample dataset taken from Kaggle
-**
 
 # [Project 2 : Shark Tank Project](https://github.com/Kavyansh-Jain/Kavyansh-Jain-Portfolio/tree/0c34ae8c05f6e7e5bc392af2999d479ddf69d053/Project%202%20%3A%20Shark%20Tank%20Project)
 
