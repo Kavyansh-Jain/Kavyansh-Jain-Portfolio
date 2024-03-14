@@ -143,3 +143,6 @@ The analysis covers different dimensions of the Shark Tank dataset using SQL que
 **2. Dashboard Creation**
 
 The insights derived from the SQL analysis were visualized using Power BI to create an interactive dashboard, providing a comprehensive overview of the Shark Tank project metrics, demographics, and investment trends.
+
+![image](https://github.com/Kavyansh-Jain/Kavyansh-Jain-Portfolio/assets/97637510/cd0b3adf-1e97-45f7-9645-2defb50df7d2)
+
